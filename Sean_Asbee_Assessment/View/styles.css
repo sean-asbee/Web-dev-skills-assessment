@@ -1,0 +1,61 @@
+/* Start: header.php styles  */
+
+.topBar {
+    text-align: center;
+    font-size: 40pt;
+    background-color: beige;
+}
+
+/* Final: header.php styles  */
+
+/* Start: index.php styles  */
+
+.loginMenu {
+    text-align: center;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.login_box {
+    border-style: solid;
+    margin-right: 5%;
+}
+
+.login_form {
+    margin-top: 15%;
+}
+
+.newuser_box {
+    border-style: solid;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+/* Final: index.php styles  */
+
+/* Start: book page styles  */
+
+.card {
+    margin: auto;
+}
+
+.subheading {
+    margin-left: 5%;
+}
+
+.bookTable {
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: large;
+    text-align: center;
+}
+
+.bookRow {
+    vertical-align: middle;
+}
+
+/* Final: book page styles  */
